@@ -13,4 +13,5 @@ module com.example.caesar {
 
     opens com.example.caesar to javafx.fxml;
     exports com.example.caesar;
+    exports com.example.affine;
 }
